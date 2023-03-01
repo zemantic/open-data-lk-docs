@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # What is Open Data?
 
 Open Data is a realtively new concept within the global scientific community which is gaining momemtum at a rapid rate.
