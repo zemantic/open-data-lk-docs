@@ -72,13 +72,13 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro/index",
+            docId: "introduction/what-is-open-data",
             position: "left",
             label: "Documentation",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          // { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/zemantic/open-data-lk-docs",
+            href: "https://github.com/lk-gov-health-hiu/",
             label: "GitHub",
             position: "right",
           },
@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/zemantic/open-data-lk-docs",
+                href: "https://github.com/orgs/lk-gov-health-hiu/dashboard",
               },
             ],
           },
